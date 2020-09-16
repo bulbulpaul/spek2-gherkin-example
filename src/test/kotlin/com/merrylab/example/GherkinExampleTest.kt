@@ -8,7 +8,7 @@ object GherkinExampleTest: Spek({
 
     Feature("Math") {
 
-        Scenario("足し算") {
+        Scenario("add") {
 
             val one = 1
 
